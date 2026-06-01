@@ -1,0 +1,14 @@
+// What does having "y", "n" in alphabet mean in terms of states
+
+{
+    "name"    : "unary_addition",
+    "alphabet": ["1", "0", "A", "B", ".", "y", "n"],
+    "blank"   : ".",
+    "states"  : ["HALT"],
+    "initial" : "",
+    "finals"  : ["HALT"],
+
+    "transitions" : {
+        
+    }
+}
